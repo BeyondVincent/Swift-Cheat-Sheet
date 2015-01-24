@@ -1,4 +1,4 @@
-## Swift-Cheat-Sheet
+## Swift Cheat Sheet
 本文不是 Swift 入门指南，也不会详细介绍 Swift 中的各种知识点。只是 Swift 中常用知识点的一个快速参考备忘录。
 
 * [Constants and Variables](#constants-and-variables)
@@ -50,4 +50,4 @@
 
 ## Constants and Variables
 
-[Back to top](#Swift Cheat Sheet)
+[Back to top](swift-cheat-sheet)
