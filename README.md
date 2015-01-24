@@ -50,4 +50,4 @@
 
 ## Constants and Variables
 
-* [返回顶部](#swift-备忘录)
+* [返回顶部](#swift-cheat-sheet)
