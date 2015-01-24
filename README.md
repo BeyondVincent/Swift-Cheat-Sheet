@@ -1,4 +1,4 @@
-<h2 id="back to top"/h2> 
+<h2 id="back to top"></h2> 
 ## Swift 备忘录
 
 本文不是 Swift 入门指南，也不会详细介绍 Swift 中的各种知识点。只是 Swift 中常用知识点的一个快速参考备忘录。
@@ -29,7 +29,7 @@
 本文不是 Swift 入门指南，也不会详细介绍 Swift 中的各种知识点。只是 Swift 中常用知识点的一个快速参考备忘录。
 本文不是 Swift 入门指南，也不会详细介绍 Swift 中的各种知识点。只是 Swift 中常用知识点的一个快速参考备忘录。
 
-<h2 id="good good"/h2> 
+<h2 id="good good"></h2> 
 ##1.语法示例##
 
 本文不是 Swift 入门指南，也不会详细介绍 Swift 中的各种知识点。只是 Swift 中常用知识点的一个快速参考备忘录。
